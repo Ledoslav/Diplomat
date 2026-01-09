@@ -1,0 +1,30 @@
+{
+    "users": {
+        "test": {
+            "email": "test@gmail.com",
+            "password_hash": "a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3",
+            "self_context": "",
+            "contacts": [],
+            "memory": {
+                "relationship_preferences": {
+                    "Boss": {
+                        "Formal": -1
+                    }
+                },
+                "history": [
+                    {
+                        "timestamp": "2026-01-09T16:56:40.341637",
+                        "accepted": false,
+                        "final_content": "[Context: I want to go on winter vacation] \nMessage: Hey boss, I want to ask you to give me a vacation in two weeks which will last one week.",
+                        "original_message": {
+                            "content": "[Context: I want to go on winter vacation] \nMessage: Hey boss, I want to ask you to give me a vacation in two weeks which will last one week.",
+                            "recipient": "Mr. Smith",
+                            "tone": "Formal"
+                        },
+                        "refined_suggestion": "System is currently cooling down (Rate Limit). Please wait 30-60 seconds and try again."
+                    }
+                ]
+            }
+        }
+    }
+}
